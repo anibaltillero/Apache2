@@ -26,3 +26,9 @@ usuario@Linux:~$ sudo service apache2 stop
 
 ```
  
+ ### Para probar el servidor de apache, abra un navegador: FireFox, Chromer y digite Localhost en el navegador. 
+ 
+```
+localhost
+
+```
